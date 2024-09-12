@@ -1,0 +1,8 @@
+PECCOD,TALCUIT,TNROINTOPR,CODIGOTALLER,VCDOMINIO,TIPOUSO,VCCODVALVULA,VCNROSERIE,VCCODGEST,VCFECGEST,CILCODH(*),CNROSERIE(*),XTIPOPRREC
+CHAR(4),CHAR(13),Entero,CHAR(7),CHAR(10),CHAR(1),CHAR(4),CHAR(25),CHAR(1),Fecha,CHAR(4),CHAR(25),CHAR(2)
+Código asignado de PEC.  ,Cuit del Taller. ##-########-# ,Nro. Interno de Operación. Ver TNroIntOpr en tabla USR.txt ,Código del taller asignado por el OC correspondiente según la norma NAG 408  ,Ver UDominio en USR.txt  ,Ver UTIPUSO en USR.txt  ,Código Homologado de la válvula de cilindro  ,Número de serie válvula del cilindro.  ,'S' Sin Cambios 'M' Montaje 'B' Baja,Fecha de Gestión de la operación (ver Usr.Ufecrev)  ,Código del cilindro al cual está asociado la válvula  ,Número de serie del cilindro al cual está asociado la válvula  ,Ultima operación realizada sobre el registro: 'A' Alta 'M' Modificación
+SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO
+3455,20-11801086-9,3465,HIT0188,WPS248,3,TT02,18079,S,07/08/2024,IF15,4088403,A
+3455,20-11801086-9,3465,HIT0188,WPS248,3,TT02,17790,S,07/08/2024,IF15,4088417,A
+3455,20-11801086-9,3464,HIT0188,AA166QZ,3,TY87,DFA1007186,S,07/08/2024,ER32,"	820557",A
+3455,20-11801086-9,3464,HIT0188,AA166QZ,3,TY87,DFA1007128,S,07/08/2024,KI87,605933,A

@@ -1,0 +1,48 @@
+PECCOD,TALCUIT,TNROINTOPR,CODIGOTALLER,UDOMINIO,TIPOUSO,RCODREG,RNROSERIE,RCODGEST,RFECGEST,XFECMODREC,XTIPOPRREC
+CHAR(4),CHAR(13),Entero,CHAR(7),CHAR(10),CHAR(1),CHAR(4),CHAR(25),CHAR(1),Fecha,Fecha,CHAR(2)
+ Código asignado de PEC.     , Cuit del Taller. ##-########-#    , Nro. Interno de Operación. Ver TNroIntOpr en tabla USR.txt    , Código del taller asignado por el OC correspondiente según la norma NAG 408     , Ver UDominio en USR.txt     , Ver UTIPUSO en USR.txt     , Código Homologado de Regulador     , Número de serie del regulador.     ," 'S' Sin Cambios 'M' Montaje 'D' Desmontaje 'B' Baja Para el caso de que Usr.Ucodgest='C', sólo puede existir un sólo registro de Reg para ese Pec/Taller/Revisión y Reg.RCodgest='M'.", Fecha de Gestión de la operación (ver Ufecrev del USR.txt)     , Fecha de la última modificación del registro     , Ultima operación realizada sobre el registro: 'A' Alta 'M' Modificación   
+SI,SI,SI,SI,SI,SI,SI,SI,SI,SI,NO,NO
+3455,20-11801086-9,3465,HIT0188,WPS248,3,VL01,76258,S,07/08/2024,07/08/2024,A
+3455,20-11801086-9,3464,HIT0188,AA166QZ,3,TY02,PPA1272737,S,07/08/2024,07/08/2024,A
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Código asignado de PEC.,Cuit del Taller.,Nro. Interno de Operación.,Código del taller asignado por el OC correspondiente según la norma NAG 408,Ver UDominio en USR.txt,Ver UTIPUSO en USR.txt,Código Homologado de Regulador,Número de serie del regulador.,'S' Sin Cambios,Fecha de Gestión de la operación (ver Ufecrev del USR.txt),Fecha de la última modificación del registro,Ultima operación realizada sobre el registro:
+,##-########-#,Ver TNroIntOpr en tabla USR.txt,,,,,,'M' Montaje,,,'A' Alta
+,,,,,,,,'D' Desmontaje,,,'M' Modificación
+,,,,,,,,'B' Baja,,,
+,,,,,,,,Para el caso de que,,,
+,,,,,,,,"Usr.Ucodgest='C', sólo puede existir un sólo registro de Reg para ese Pec/Taller/Revisión y Reg.RCodgest='M'.",,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+      ,,,,,,,,,,,
